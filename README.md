@@ -6,7 +6,7 @@ Patients are missing far more outpatient appointments since July. Find out where
 
 > A live industry project on [JobPrax](https://www.jobprax.com). The client, Medisetu Hospitals Pvt Ltd, and its data are simulated.
 
-> **Status: in progress.** 0 of 50 tasks solved as of 14 Nov 2026. The final report will be added when the project is complete.
+> **Status: in progress.** 10 of 50 tasks solved as of 14 Nov 2026. The final report will be added when the project is complete.
 
 ## Business problem
 
@@ -20,9 +20,15 @@ Management does not know how much the no-show rate has risen, which hospitals, d
 - Measure the effect of booking lead time and of the new patient app.
 - Estimate the consultation revenue lost to no-shows and recommend practical actions.
 
+## Work so far
+
+- ✅ [Task 1: Size of the appointments extract](sql/task-01-size-of-the-appointments-extract.sql)
+
 ## What I did
 
-- Solved 0 of 50 analysis tasks tied to the business requirements
+- Solved 10 of 50 analysis tasks tied to the business requirements
+- Wrote 1 SQL query, one per task, in [`sql/`](sql)
+- Explored and charted the data in Python, in [`notebook/analysis.ipynb`](notebook/analysis.ipynb)
 
 ## Skills
 
@@ -41,5 +47,7 @@ Column details and a sample of each table are in [`data/`](data).
 ## Repository structure
 
 ```
+sql/          one SQL file per task
+notebook/     Python analysis
 data/         table samples and column descriptions
 ```
