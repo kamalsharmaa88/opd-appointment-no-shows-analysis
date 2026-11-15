@@ -6,7 +6,7 @@ Patients are missing far more outpatient appointments since July. Find out where
 
 > A live industry project on [JobPrax](https://www.jobprax.com). The client, Medisetu Hospitals Pvt Ltd, and its data are simulated.
 
-> **Status: in progress.** 10 of 50 tasks solved as of 14 Nov 2026. The final report will be added when the project is complete.
+> **Status: in progress.** 17 of 50 tasks solved as of 15 Nov 2026. The final report will be added when the project is complete.
 
 ## Business problem
 
@@ -26,7 +26,7 @@ Management does not know how much the no-show rate has risen, which hospitals, d
 
 ## What I did
 
-- Solved 10 of 50 analysis tasks tied to the business requirements
+- Solved 17 of 50 analysis tasks tied to the business requirements
 - Wrote 1 SQL query, one per task, in [`sql/`](sql)
 - Explored and charted the data in Python, in [`notebook/analysis.ipynb`](notebook/analysis.ipynb)
 
